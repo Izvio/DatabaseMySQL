@@ -1,1 +1,1 @@
-# Pada Repositories ini saya akan membagikan Tutorial membuat Database MySQL
+# Pada Repositories ini saya akan membagikan Perintah Dasar membuat Database MySQL menggunakan CMD 
